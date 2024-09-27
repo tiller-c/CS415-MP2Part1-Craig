@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Tmoneyquick/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Tmoneyquick/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/W_HealthScreen.uasset",
+				"C:/Users/Tmoneyquick/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_Roof.uasset",
+				"C:/Users/Tmoneyquick/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/Tmoneyquick/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Assets/Props/Powerups/Powerup_A/SM_Powerup_01_Shard02.uasset",
+				"C:/Users/Tmoneyquick/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"C:/Users/Tmoneyquick/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/Tmoneyquick/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/Tmoneyquick/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/coin_icon.uasset",
+				"C:/Users/Tmoneyquick/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Thorn_BP.uasset",
+				"C:/Users/Tmoneyquick/Documents/Unreal Projects/UnrealLearningKit/Content/Pursuer_AIController.uasset",
+				"C:/Users/Tmoneyquick/Documents/Unreal Projects/UnrealLearningKit/Content/BP_Pursuer.uasset",
+				"C:/Users/Tmoneyquick/Documents/Unreal Projects/UnrealLearningKit/Content/EAIState.uasset",
+				"C:/Users/Tmoneyquick/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Assets/Architecture/Stairs/SM_Kit_Stairs_A.uasset",
+				"C:/Users/Tmoneyquick/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/W_DeathScreen.uasset"
+			]
+		}
+	]
+}
